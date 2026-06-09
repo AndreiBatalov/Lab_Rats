@@ -1,3 +1,5 @@
 *.vscode
 *.rar
 1
+*.txt
+r_peaks.ipynb
