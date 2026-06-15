@@ -3,3 +3,5 @@
 1
 *.txt
 r_peaks.ipynb
+*.npy
+*.csv
